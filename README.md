@@ -1,8 +1,8 @@
 #Netflix EDA project:
-##Summarry:
+#Summarry:
 This is a case study done by me to practice and learn the Python libraries **pandas**, **matplotlib**, and **seaborn**.
 
-###Explanation:
+#Explanation:
 In this project, I used a dataset of Netflix shows and movies with multiple columns, including cast, director, genre, etc. Using this data, I performed **Exploratory Data Analysis (EDA)** to identify key insights such as:
 
 - Top countries in movie and TV show production
