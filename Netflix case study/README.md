@@ -10,3 +10,4 @@ Most frequently appearing cast members in movies
 Top directors in the leading countries
 Best times to add new shows or movies to Netflix
 Based on the analysis, I have provided valuable insights and recommendations for Netflix to improve its global business.
+Additionally I have created an interactive Power BI dashboard.
